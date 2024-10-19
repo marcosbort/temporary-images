@@ -1,0 +1,7 @@
+<svg viewBox="0 0 512 512" id="flag-icons-it" xmlns="http://www.w3.org/2000/svg">
+  <g stroke-width="1pt" fill-rule="evenodd">
+    <path d="M0 0h512v512H0z" fill="#fff"></path>
+    <path d="M0 0h170.7v512H0z" fill="#009246"></path>
+    <path d="M341.3 0H512v512H341.3z" fill="#ce2b37"></path>
+  </g>
+</svg>
